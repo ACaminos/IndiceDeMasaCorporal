@@ -1,0 +1,86 @@
+header{
+    font-family: 'IM Fell French Canon SC', serif;
+    width: 1330px; /*1330px*/
+    position: relative;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1px;
+    padding-right: 8px;
+    }
+body{
+    
+    width: min-content; /*1349px*/
+}
+nav>a{
+    font-weight: bold;
+    font-size: 14pt;
+    text-decoration: none;
+    color: blue;
+
+}
+nav{
+    word-spacing: 30px;
+    font-size: large;
+    width: auto; /*1349px*/
+    position: relative;
+    text-align: center;
+    background-color: sienna;
+    padding-bottom: 3px;
+}
+article{
+    background-image: url(https://image.freepik.com/foto-gratis/pequeno-lapiz-usado-aislado-sobre-fondo-blanco_70287-3651.jpg);
+    position: absolute ;
+    width: 60%;
+    height: 490px;
+}
+aside{
+    font-family: 'Dosis', sans-serif;
+    border-radius: 10%;
+    background-image: url(https://5.imimg.com/data5/LJ/VG/QW/SELLER-22074463/writing-notepad-500x500-500x500.jpg);
+    background-repeat: no-repeat;
+    background-position-x: 28px;
+    background-position-y: -40px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 60vw;
+    width: 38%;
+    height: 490px;
+    text-align: center;    
+}
+aside>table{
+    margin: auto;
+    text-align: center;
+    border-collapse: separate;
+    border:black 1px solid;
+}
+#send{
+    margin-left: 70%;
+}
+footer{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 415px;
+}
+
+.lorem{  
+    width: a;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+footer>p{
+    font-size: small;
+    *margin-left: 250px;
+    margin-top: 65px;
+    color: red;
+}
+footer#derechos>p>a{
+    text-decoration: none;
+}
+footer#derechos>p{
+    margin-left: 600px;
+    text-align: center;
+}
+#boton{
+    margin-left: -1100px;
+}
